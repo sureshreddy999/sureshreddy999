@@ -29,10 +29,11 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Suresh Reddy Dwarampudi
-location: Anaparthi, Andhra Pradesh, India 🇮🇳
-education: B.Tech Computer Science @ Aditya Engineering College (2022–2026)
-role: Full Stack Developer | Cloud Engineer | Prompt Engineer | Coder
+ASPIRING SOFTWARE ENGINEER
+Name: Suresh Reddy Dwarampudi
+Location: Anaparthi, Andhra Pradesh, India 🇮🇳
+Education: B.Tech Computer Science @ Aditya Engineering College (2022–2026)
+Role: Full Stack Developer | Cloud Engineer | Prompt Engineer | Coder
 
 currently:
   - 🔭 Building scalable full-stack and cloud-native applications
