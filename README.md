@@ -32,7 +32,7 @@
 name: Suresh Reddy Dwarampudi
 location: Anaparthi, Andhra Pradesh, India 🇮🇳
 education: B.Tech Computer Science @ Aditya Engineering College (2022–2026)
-role: Full Stack Developer | Cloud Engineer | Prompt Engineer
+role: Full Stack Developer | Cloud Engineer | Prompt Engineer | Coder
 
 currently:
   - 🔭 Building scalable full-stack and cloud-native applications
